@@ -1,2 +1,2 @@
 # 2048
-The 2048 Game
+A 2048 clone written in C# by Mateusz Gajda.
